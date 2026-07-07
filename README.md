@@ -8,6 +8,8 @@ I'm a current UVA Darden MBA student. Among other projects, I'm building interac
 
 **[The Sourcing Screen](https://github.com/bakul007/dealsourcing)** — a deal-sourcing dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a 30-deal pipeline in real time. [Live](https://bakul007.github.io/dealsourcing/)
 
+**[Clinical Trial Screener](https://github.com/bakul007/clinicaltrial-screener)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown — no black-box score, every number sourced or fetched.
+
 **[IB Technicals Fluency Trainer](https://github.com/bakul007/ibtrainer)** — a merger-model cockpit, purchase-price allocator, and DCF sensitivity heatmap built as live playgrounds, backed by generative math drills and spaced repetition.
 
 **[Consulting Case Prep Trainer](https://github.com/bakul007/consultingtrainer)** — a profit-diagnosis game that scores hypothesis-driven reasoning under a limited information budget, not memorized frameworks, plus a market-sizing builder and exhibit reader.
@@ -16,7 +18,7 @@ I'm a current UVA Darden MBA student. Among other projects, I'm building interac
 
 ## How these are built
 
-Each one is a self-contained app — vanilla HTML/CSS/JS, no framework, no build step, no dependencies — designed, built, and shipped solo end-to-end: data model, interaction design, and deployment. The AI Stack and Sourcing Screen split data from rendering (`data.json` + `app.js`) so their content can update without touching the app itself; the three trainers are single-file by design since their content doesn't go stale the same way.
+Each one is a self-contained app — vanilla HTML/CSS/JS, no framework, no build step, no dependencies — designed, built, and shipped solo end-to-end: data model, interaction design, and deployment. The AI Stack, Sourcing Screen, and Clinical Trial Screener split data from rendering (`data.json` + `app.js`) so their content can update without touching the app itself; the three trainers are single-file by design since their content doesn't go stale the same way. Clinical Trial Screener goes a step further with a real Python data pipeline (`data/build_dataset.py`) that pulls and scores live data rather than reading from hand-authored fixtures.
 
 ## Connect
 
