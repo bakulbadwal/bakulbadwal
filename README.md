@@ -4,17 +4,17 @@ I'm a current UVA Darden MBA student. Among other projects, I'm building interac
 
 ## Projects
 
-**[The AI Stack](https://github.com/bakul007/aistack)** — an interactive map of the AI industry from silicon to application layer, with ~20 company profiles, three money-flow traces, and a unit-economics calculator for token costs and build-vs-buy decisions. [Live](https://aistacked.netlify.app/)
+**[The AI Stack](https://github.com/bakulbadwal/aistack)** — an interactive map of the AI industry from silicon to application layer, with ~20 company profiles, three money-flow traces, and a unit-economics calculator for token costs and build-vs-buy decisions. [Live](https://aistacked.netlify.app/)
 
-**[The Sourcing Screen](https://github.com/bakul007/dealsourcing)** — a deal-sourcing dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a 30-deal pipeline in real time. [Live](https://bakul007.github.io/dealsourcing/)
+**[The Sourcing Screen](https://github.com/bakulbadwal/dealsourcing)** — a deal-sourcing dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a 30-deal pipeline in real time. [Live](https://bakulbadwal.github.io/dealsourcing/)
 
-**[Clinical Trial Screener](https://github.com/bakul007/clinicaltrial-screener)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown — no black-box score, every number sourced or fetched. [Live](https://bakul007.github.io/clinicaltrial-screener/)
+**[Clinical Trial Screener](https://github.com/bakulbadwal/clinicaltrial-screener)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown — no black-box score, every number sourced or fetched. [Live](https://bakulbadwal.github.io/clinicaltrial-screener/)
 
-**[IB Technicals Fluency Trainer](https://github.com/bakul007/ibtrainer)** — a merger-model cockpit, purchase-price allocator, and DCF sensitivity heatmap built as live playgrounds, backed by generative math drills and spaced repetition.
+**[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — a merger-model cockpit, purchase-price allocator, and DCF sensitivity heatmap built as live playgrounds, backed by generative math drills and spaced repetition.
 
-**[Consulting Case Prep Trainer](https://github.com/bakul007/consultingtrainer)** — a profit-diagnosis game that scores hypothesis-driven reasoning under a limited information budget, not memorized frameworks, plus a market-sizing builder and exhibit reader.
+**[Consulting Case Prep Trainer](https://github.com/bakulbadwal/consultingtrainer)** — a profit-diagnosis game that scores hypothesis-driven reasoning under a limited information budget, not memorized frameworks, plus a market-sizing builder and exhibit reader.
 
-**[The Operator's P&L Room](https://github.com/bakul007/p-lroom)** — an eight-quarter run-the-business simulator under real leverage and covenants, paired with a 13-week cash-crisis room for distress-operator decision-making.
+**[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — an eight-quarter run-the-business simulator under real leverage and covenants, paired with a 13-week cash-crisis room for distress-operator decision-making.
 
 ## How these are built
 
