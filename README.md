@@ -10,7 +10,7 @@ I'm a current UVA Darden MBA student. I build small, dependency-free interactive
 
 **[IB Technicals Fluency Trainer](https://github.com/bakul007/ibtrainer)** — a merger-model cockpit, purchase-price allocator, and DCF sensitivity heatmap built as live playgrounds, backed by generative math drills and spaced repetition.
 
-**[MBB Case Prep Trainer](https://github.com/bakul007/consultingtrainer)** — a profit-diagnosis game that scores hypothesis-driven reasoning under a limited information budget, not memorized frameworks, plus a market-sizing builder and exhibit reader.
+**[Consulting Case Prep Trainer](https://github.com/bakul007/consultingtrainer)** — a profit-diagnosis game that scores hypothesis-driven reasoning under a limited information budget, not memorized frameworks, plus a market-sizing builder and exhibit reader.
 
 **[The P&L Room](https://github.com/bakul007/p-lroom)** — an eight-quarter run-the-business simulator under real leverage and covenants, paired with a 13-week cash-crisis room for distress-operator decision-making.
 
