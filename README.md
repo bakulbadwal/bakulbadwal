@@ -8,6 +8,8 @@ I'm a current UVA Darden MBA student. I'm building interactive tools I use to tu
 
 **[TraceHound](https://github.com/bakulbadwal/tracehound)** — an agentic on-chain crypto hack tracer: live hop-by-hop tracing from compromised wallet via the Etherscan API, cross-references a watchlist populated with real, current OFAC-sanctioned addresses pulled from Treasury's SDN list, LLM narration, and drafts a demand letter from the trace facts. Victims should file with the FBI's IC3. [Live](https://tracehound.vercel.app)
 
+**[Tranche AI](https://github.com/bakulbadwal/tranche-ai)** — condition-gated capital release for venture deals: an AI agent reviews milestone evidence and posts a signed, on-chain attestation (EAS) that sits behind a dispute window before any funds move. Solidity + Foundry, live on Base Sepolia. [Live](https://tranche-ai.vercel.app)
+
 **[The Sourcing Screen](https://github.com/bakulbadwal/dealsourcing)** — a deal-sourcing dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a 30-deal pipeline in real time. [Live](https://bakulbadwal.github.io/dealsourcing/)
 
 **[Clinical Trial Screener](https://github.com/bakulbadwal/clinicaltrial-screener)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown — no black-box score, every number sourced or fetched. [Live](https://bakulbadwal.github.io/clinicaltrial-screener/)
