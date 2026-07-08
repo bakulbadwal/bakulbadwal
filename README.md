@@ -1,6 +1,6 @@
 # Hi, I'm Bakul
 
-I'm a current UVA Darden student. I'm building interactive tools I use to drill dense technical material — spaced repetition, generative problem sets, and live playgrounds instead of static notes or slide decks. I'm also building tools with real-world use case based on my academic and professional experiences in ai x bio/longevity, ai x blockchain, VC and PE, etc. 
+I'm a current UVA Darden student. I'm building tools with real-world use case based on my academic and professional experiences in ai x bio/longevity, ai x blockchain, VC and PE, etc. I'm also building interactive tools I use to drill dense technical material — spaced repetition, generative problem sets, and live playgrounds instead of static notes or slide decks. 
 
 ## Projects
 
