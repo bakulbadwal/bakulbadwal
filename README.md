@@ -1,6 +1,6 @@
 # Hi, I'm Bakul
 
-I'm a current UVA Darden student. I'm building tools with real-world use case based on my academic and professional experiences in ai x bio/longevity, ai x blockchain, VC and PE, etc. I'm also building interactive tools I use to drill dense technical material — spaced repetition, generative problem sets, and live playgrounds instead of static notes or slide decks. 
+I'm a UVA Darden '27 student. I'm building AI tools with real-world use case based on my academic + professional experiences in ai x bio/longevity, ai x blockchain, VC and PE, etc. I'm also building interactive tools I use to drill dense technical material.
 
 ## Projects
 
@@ -14,7 +14,7 @@ I'm a current UVA Darden student. I'm building tools with real-world use case ba
 
 **[PhaseSignal](https://github.com/bakulbadwal/phasesignal)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown — no black-box score, every number sourced or fetched. [Live](https://bakulbadwal.github.io/phasesignal/)
 
-**[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — a merger-model cockpit, purchase-price allocator, and DCF sensitivity heatmap built as live playgrounds, backed by generative math drills and spaced repetition.
+**[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — a merger-model cockpit, purchase-price allocator, and DCF sensitivity heatmap built as live playgrounds, backed by generative math drills and spaced repetition. 
 
 **[Consulting Case Prep Trainer](https://github.com/bakulbadwal/consultingtrainer)** — a profit-diagnosis game that scores hypothesis-driven reasoning under a limited information budget, not memorized frameworks, plus a market-sizing builder and exhibit reader.
 
