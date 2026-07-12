@@ -1,14 +1,14 @@
 # Hi, I'm Bakul
 
-I'm a UVA Darden '27 student. I'm building AI tools with real-world use case in ai x bio/longevity, ai x blockchain, VC and PE, MBA trainers, etc based on my academic + professional experiences. 
+I'm a UVA Darden '27 student. Applied AI builder - real-world use cases in ai x bio/longevity, ai x blockchain, VC and PE, MBA trainers, etc based on my academic + professional experiences. 
 
 ## Projects
 
 **[Tranche AI](https://github.com/bakulbadwal/tranche-ai)** — condition-gated capital release for VC deals: an AI agent reviews milestone evidence and posts a signed, on-chain attestation (EAS). Solidity + Foundry, live on Base Sepolia. [Live](https://tranche-ai.vercel.app)
 
-**[TraceHound](https://github.com/bakulbadwal/tracehound)** — an agentic on-chain crypto hack tracer: live hop-by-hop tracing from compromised wallet via the Etherscan API, cross-references an OFAC watchlist populated with real, current sanctioned addresses pulled from Treasury's SDN list, LLM narration, and drafts a demand letter. Built from direct volunteer experience with FBI & U.S. Secret Service on a personal hack + referring $6m of crypto crime. [Live](https://tracehound.vercel.app)
+**[TraceHound](https://github.com/bakulbadwal/tracehound)** — an agentic on-chain crypto hack tracer: live hop-by-hop tracing from compromised wallet via the Etherscan API, cross-references an OFAC watchlist populated with real, current sanctioned addresses pulled from Treasury's SDN list, LLM narration, and drafts a demand letter. Built from volunteer experience with FBI & U.S. Secret Service on a personal 6-figure hack + tracking/referring $6m of crypto crime. [Live](https://tracehound.vercel.app)
 
-**Live Forever** *(private)* — a personal longevity engine that unifies Oura Ring, Apple Health, Nori, 10+ years of clinical bloodwork and self-logged inputs (nootropics, medication, etc.) into one owned data layer via MCP connectors + REST APIs. Computes a **PhenoAge** biological-age clock from a standard blood panel, benchmarks against Bryan Johnson's public Blueprint targets and age/sex population cohorts, runs an N-of-1 correlation engine that quantifies what each input actually does to next-day HRV, sleep, recovery, resilience scores, plus a 28-day before/after analysis on any intervention. 
+**Live Forever** *(private)* — a personal longevity engine that unifies Oura Ring, Apple Health, Nori, 10+ years of clinical bloodwork and daily self-logged inputs (nootropics, training, sleep, medication, etc.) into one owned data layer via MCP + REST APIs. Computes a **PhenoAge** biological-age clock tracked from blood panels, benchmarks against Bryan Johnson's public Blueprint targets and age/sex population cohorts, runs an N-of-1 correlation engine quantifying what each input actually does to next-day HRV, sleep, recovery, resilience scores, plus a 28-day before/after analysis on any intervention. Genomics-ready, daily auto-refresh. Health control tower.
 
 **[The AI Stack](https://github.com/bakulbadwal/aistack)** — an interactive map of the AI industry from silicon to application layer, with ~20 company profiles, three money-flow traces, and a personal AI-cost calculator (subscription vs. pay-as-you-go, at your own usage). [Live](https://aistacked.netlify.app/)
 
