@@ -44,6 +44,8 @@ Cross-referenced against my own DNA from 23andMe (caffeine/dopamine pharmacogeno
 
 Most are self-contained apps — vanilla HTML/CSS/JS, no framework, no build step, no dependencies — designed, built, and shipped solo end-to-end. AI Stack and PhaseSignal split data from rendering (`data.json` + `app.js`) for content updates. PhaseSignal uses a real Python data pipeline (`data/build_dataset.py`) that pulls and scores live data rather than reading from hand-authored fixtures. TraceHound needs a real backend to keep API keys server-side, so it's a Next.js app with server-rendered API routes, deployed on Vercel.
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white)
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/bakulbadwal/) · [Site](https://bakulbadwal.com) · [Email](mailto:badwalb@gmail.com)
