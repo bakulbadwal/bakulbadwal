@@ -1,7 +1,7 @@
 # Hi, I'm Bakul
 
 - 🎓 UVA Darden '27
-- 🛠️ Building for fun + real-world use cases in ai x bio/longevity, ai x blockchain, VC and PE, AI-native services, e-learning, etc.
+- 🛠️ Building for fun + use cases in ai x bio/longevity, ai x blockchain, VC and PE, AI-native services, e-learning, etc.
 
 ## Projects
 
@@ -17,9 +17,9 @@
 
 **LiveForever** *(live, private health control tower)* — personal longevity engine that unifies Oura Ring, Apple Health, Nori, 10+ years of clinical bloodwork and daily self-logged inputs into one owned data layer.
 
-Then, computes a **PhenoAge** biological-age clock tracked from blood panels since 2015, benchmarks against Bryan Johnson's public Blueprint targets and age/sex population cohorts, runs an N-of-1 correlation engine quantifying what each input (nootropics, biohacking, fitness, sleep, medication, etc.) actually does to next-day HRV, recovery, resilience scores, plus a 28-day before/after analysis on any intervention.
+Then, computes a **PhenoAge** biological-age clock, benchmarks against Bryan Johnson's public Blueprint targets and age/sex population cohorts, runs an N-of-1 correlation engine quantifying what each input (nootropics, biohacking, fitness, sleep, medication, etc.) does to next-day HRV, recovery, resilience scores, plus a 28-day before/after analysis on any intervention.
 
-Cross-referenced against my own DNA from 23andMe (caffeine/dopamine pharmacogenomics, APOE and metabolic-risk variants) so the guidance is genetically personalized. Daily auto-refresh via MCP + REST APIs.
+Cross-referenced against my own DNA from 23andMe (caffeine/dopamine pharmacogenomics, APOE and metabolic-risk variants) so guidance is genetically personalized. Daily auto-refresh via MCP + REST APIs.
 
 **[PhaseSignal](https://github.com/bakulbadwal/phasesignal)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown.<br>
 > [Live →](https://bakulbadwal.github.io/phasesignal/)
