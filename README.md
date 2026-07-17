@@ -10,14 +10,14 @@
 **[Tranche AI](https://github.com/bakulbadwal/tranche-ai)** — condition-gated capital release for VC deals: an AI agent reviews milestone evidence and posts a signed, on-chain attestation (EAS). Solidity, live on Base Sepolia network.<br>
 > [Live →](https://tranche-ai.vercel.app)
 
-**[TraceHound](https://github.com/bakulbadwal/tracehound)** — agentic crypto hack tracer: live hop-by-hop tracing from compromised wallet via the Etherscan API, cross-references an OFAC watchlist populated with current sanctioned addresses from Treasury's SDN list, LLM narration, and a drafted demand letter. Built from experience with FBI & U.S. Secret Service on a personal hack + tracking/referring $6M of crypto crime.<br>
+**[TraceHound](https://github.com/bakulbadwal/tracehound)** — agentic crypto hack tracer: live hop-by-hop tracing from compromised wallet via the Etherscan API, cross-references an OFAC watchlist populated with current sanctioned addresses from Treasury's SDN list, LLM narration, and drafts demand letter. Built from experience with FBI & U.S. Secret Service on a hack + tracking/referring $6M of crypto crime.<br>
 > [Live →](https://tracehound.vercel.app)
 
 ### AI × Bio/Longevity
 
 **LiveForever** *(live, private health control tower)* — personal longevity engine that unifies Oura Ring, Apple Health, Nori, 10+ years of clinical bloodwork and daily self-logged inputs into one owned data layer.
 
-Then, computes a **PhenoAge** biological-age clock, benchmarks against Bryan Johnson's public Blueprint targets and age/sex population cohorts, runs an N-of-1 correlation engine quantifying what each input (nootropics, biohacking, fitness, sleep, medication, etc.) does to HRV, recovery, resilience scores + 28-day before/after analysis on interventions. Genetically personalized by cross-referencing against my own DNA from 23andMe (caffeine/dopamine pharmacogenomics, APOE and metabolic-risk variants). Daily auto-refresh via MCP + REST APIs.
+Computes a **PhenoAge** biological-age clock, benchmarks vs. Bryan Johnson's public Blueprint targets and age/sex population cohorts, runs N-of-1 correlation engine quantifying what each input (nootropics, biohacking, fitness, sleep, medication, etc.) does to HRV, recovery, resilience scores + 28-day before/after analysis on interventions. Genetically personalized by cross-referencing against my DNA via 23andMe (caffeine/dopamine pharmacogenomics, APOE and metabolic-risk variants). Daily auto-refresh via MCP + REST APIs.
 
 **[PhaseSignal](https://github.com/bakulbadwal/phasesignal)** — pulls real, live trial data from the ClinicalTrials.gov API, scores against a cited published base rate, adjusted by four computed factors with a live-reweighting breakdown.<br>
 > [Live →](https://bakulbadwal.github.io/phasesignal/)
