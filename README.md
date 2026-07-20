@@ -3,19 +3,6 @@
 - 🎓 currrently @ UVA Darden '27
 - 🛠️ Building for fun + use cases in ai x bio/longevity, ai x blockchain, VC and PE, AI-native services, e-learning, etc.
 
-## Product Case Studies
-
-Short product write-ups — **problem · users · product decisions & tradeoffs · how I'd measure success · roadmap**:
-
-| Project | The product-thinking angle |
-|---|---|
-| **[Recruiting Trainer Suite →](https://github.com/bakulbadwal/ibtrainer/blob/main/CASE_STUDY.md)** | Framing three tools as one product line; retention-first design |
-| **[The AI Stack →](https://github.com/bakulbadwal/aistack/blob/main/CASE_STUDY.md)** | Mapping where value accrues across AI; fact-vs-thesis |
-| **[PhaseSignal →](https://github.com/bakulbadwal/phasesignal/blob/main/CASE_STUDY.md)** | Transparency vs. black-box incumbents |
-| **[TraceHound →](https://github.com/bakulbadwal/tracehound/blob/main/CASE_STUDY.md)** | Agentic AI for underserved users; rigor about a tool's limits |
-| **[Deal Docket →](https://github.com/bakulbadwal/dealdocket/blob/main/CASE_STUDY.md)** | Making assumptions visible; build-vs-backend judgment |
-| **[Tranche AI →](https://github.com/bakulbadwal/tranche-ai/blob/main/CASE_STUDY.md)** | Scoping a frontier problem |
-
 ## Projects
 
 ### AI × Blockchain
@@ -50,6 +37,20 @@ Computes a **PhenoAge** biological-age clock, benchmarks vs. Bryan Johnson's pub
 **[Consulting Case Prep Trainer](https://github.com/bakulbadwal/consultingtrainer)** — profit-diagnosis game scores hypothesis-driven reasoning under a limited information budget, market-sizing builder, exhibit reader.
 
 **[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under leverage and covenants, 13-week cash-crisis room for distress-operator decision-making.
+
+## Product Case Studies
+
+Short product write-ups — **problem · users · product decisions & tradeoffs · how I'd measure success · roadmap**:
+
+| Project | The product-thinking angle |
+|---|---|
+| **[Recruiting Trainer Suite →](https://github.com/bakulbadwal/ibtrainer/blob/main/CASE_STUDY.md)** | Framing three tools as one product line; retention-first design |
+| **[The AI Stack →](https://github.com/bakulbadwal/aistack/blob/main/CASE_STUDY.md)** | Mapping where value accrues across AI; fact-vs-thesis |
+| **[PhaseSignal →](https://github.com/bakulbadwal/phasesignal/blob/main/CASE_STUDY.md)** | Transparency vs. black-box incumbents |
+| **[TraceHound →](https://github.com/bakulbadwal/tracehound/blob/main/CASE_STUDY.md)** | Agentic AI for underserved users; rigor about a tool's limits |
+| **[Deal Docket →](https://github.com/bakulbadwal/dealdocket/blob/main/CASE_STUDY.md)** | Making assumptions visible; build-vs-backend judgment |
+| **[Tranche AI →](https://github.com/bakulbadwal/tranche-ai/blob/main/CASE_STUDY.md)** | Scoping a frontier problem |
+
 
 ## How these are built
 
