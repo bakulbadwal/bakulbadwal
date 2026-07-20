@@ -3,18 +3,18 @@
 - 🎓 currrently @ UVA Darden '27
 - 🛠️ Building for fun + use cases in ai x bio/longevity, ai x blockchain, VC and PE, AI-native services, e-learning, etc.
 
-## Selected Work — Product Case Studies
+## Product Case Studies
 
-Short product write-ups for my main builds — **problem · users · product decisions & tradeoffs · how I'd measure success · roadmap** — the thinking behind each, not just what it does:
+Short product write-ups for my main builds — **problem · users · product decisions & tradeoffs · how I'd measure success · roadmap**:
 
 | Project | The product-thinking angle |
 |---|---|
 | **[Recruiting Trainer Suite →](https://github.com/bakulbadwal/ibtrainer/blob/main/CASE_STUDY.md)** | Framing three tools as one product line; retention-first design |
-| **[The AI Stack →](https://github.com/bakulbadwal/aistack/blob/main/CASE_STUDY.md)** | Mapping where value accrues across the AI industry; fact-vs-thesis honesty |
-| **[PhaseSignal →](https://github.com/bakulbadwal/phasesignal/blob/main/CASE_STUDY.md)** | Transparency as the wedge vs. black-box incumbents |
-| **[TraceHound →](https://github.com/bakulbadwal/tracehound/blob/main/CASE_STUDY.md)** | Agentic AI for an underserved user; rigor about a tool's limits |
-| **[Deal Docket →](https://github.com/bakulbadwal/dealdocket/blob/main/CASE_STUDY.md)** | Making a screen's assumptions visible; build-vs-backend judgment |
-| **[Tranche AI →](https://github.com/bakulbadwal/tranche-ai/blob/main/CASE_STUDY.md)** | Scoping a frontier problem; checkable-not-final trust design |
+| **[The AI Stack →](https://github.com/bakulbadwal/aistack/blob/main/CASE_STUDY.md)** | Mapping where value accrues across AI; fact-vs-thesis |
+| **[PhaseSignal →](https://github.com/bakulbadwal/phasesignal/blob/main/CASE_STUDY.md)** | Transparency vs. black-box incumbents |
+| **[TraceHound →](https://github.com/bakulbadwal/tracehound/blob/main/CASE_STUDY.md)** | Agentic AI for underserved users; rigor about a tool's limits |
+| **[Deal Docket →](https://github.com/bakulbadwal/dealdocket/blob/main/CASE_STUDY.md)** | Making assumptions visible; build-vs-backend judgment |
+| **[Tranche AI →](https://github.com/bakulbadwal/tranche-ai/blob/main/CASE_STUDY.md)** | Scoping a frontier problem |
 
 ## Projects
 
