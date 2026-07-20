@@ -44,12 +44,13 @@ Short product write-ups — **problem · users · product decisions & tradeoffs 
 
 | Project | The product-thinking angle |
 |---|---|
-| **[Recruiting Trainer Suite →](https://github.com/bakulbadwal/ibtrainer/blob/main/CASE_STUDY.md)** | Framing three tools as one product line; retention-first design |
-| **[The AI Stack →](https://github.com/bakulbadwal/aistack/blob/main/CASE_STUDY.md)** | Mapping where value accrues across AI; fact-vs-thesis |
-| **[PhaseSignal →](https://github.com/bakulbadwal/phasesignal/blob/main/CASE_STUDY.md)** | Transparency vs. black-box incumbents |
 | **[TraceHound →](https://github.com/bakulbadwal/tracehound/blob/main/CASE_STUDY.md)** | Agentic AI for underserved users; rigor about a tool's limits |
+| **[Tranche AI →](https://github.com/bakulbadwal/tranche-ai/blob/main/CASE_STUDY.md)** | Scoping a frontier problem in VC |
+| **[The AI Stack →](https://github.com/bakulbadwal/aistack/blob/main/CASE_STUDY.md)** | Mapping where value accrues across AI |
+| **[Recruiting Trainer Suite →](https://github.com/bakulbadwal/ibtrainer/blob/main/CASE_STUDY.md)** | Framing three tools as one product line; retention-first design |
+| **[PhaseSignal →](https://github.com/bakulbadwal/phasesignal/blob/main/CASE_STUDY.md)** | Transparency vs. black-box incumbents |
 | **[Deal Docket →](https://github.com/bakulbadwal/dealdocket/blob/main/CASE_STUDY.md)** | Making assumptions visible; build-vs-backend judgment |
-| **[Tranche AI →](https://github.com/bakulbadwal/tranche-ai/blob/main/CASE_STUDY.md)** | Scoping a frontier problem |
+
 
 
 ## How these are built
