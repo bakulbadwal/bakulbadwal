@@ -5,7 +5,7 @@
 
 ## Product Case Studies
 
-Short product write-ups for my main builds — **problem · users · product decisions & tradeoffs · how I'd measure success · roadmap**:
+Short product write-ups — **problem · users · product decisions & tradeoffs · how I'd measure success · roadmap**:
 
 | Project | The product-thinking angle |
 |---|---|
