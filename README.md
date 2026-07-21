@@ -31,6 +31,8 @@ Computes a **PhenoAge** biological-age clock, benchmarks vs. Bryan Johnson's pub
 **[The AI Stack](https://github.com/bakulbadwal/aistack)** — interactive map of the AI industry from silicon to application layer, ~30 company profiles, three money-flow traces, and a personal AI-cost calculator (subscription vs. pay-as-you-go, at your own usage).<br>
 > [Live →](https://aistacked.netlify.app/)
 
+**[AI Digest](https://github.com/bakulbadwal/ai-digest)** — a personalizable AI + markets briefing that runs inside your preferred agent harness, 3x/week: track frontier model releases, what top builders are shipping (Grok API calls for live-X read), a GitHub/Hugging Face scout, and markets/deals/careers signal. Not a newsletter.**
+
 ### E-Learning
 
 **[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — merger-model cockpit, purchase-price allocator, DCF sensitivity heatmap - live playgrounds, generative math drills, spaced repetition. 
@@ -39,9 +41,6 @@ Computes a **PhenoAge** biological-age clock, benchmarks vs. Bryan Johnson's pub
 
 **[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under leverage and covenants, 13-week cash-crisis room for distress-operator decision-making.
 
-### AI × Productivity
-
-**[AI Digest](https://github.com/bakulbadwal/ai-digest)** — a personalizable AI + markets briefing that runs entirely inside Claude Code, three times a week: frontier model releases, what builders are actually shipping (via a live-X read), a GitHub/Hugging Face scout, and markets/deals/careers signal. Not a newsletter — a template, not a feed; you make it yours by editing one file.
 
 ## Product Case Studies
 
