@@ -55,6 +55,7 @@ Short product write-ups — **problem · users · product decisions & tradeoffs 
 | **[The AI Stack →](https://github.com/bakulbadwal/aistack/blob/main/CASE_STUDY.md)** | Mapping where value accrues across AI |
 | **[Recruiting Trainer Suite →](https://github.com/bakulbadwal/ibtrainer/blob/main/CASE_STUDY.md)** | Framing three tools as one product line; retention-first design |
 | **[PhaseSignal →](https://github.com/bakulbadwal/phasesignal/blob/main/CASE_STUDY.md)** | Transparency vs. black-box incumbents |
+| **[LiveForever Evidence Lab →](https://github.com/bakulbadwal/liveforever-buildweek/blob/main/CASE_STUDY.md)** | Separating deterministic evidence from model interpretation in personal health |
 | **[Deal Docket →](https://github.com/bakulbadwal/dealdocket/blob/main/CASE_STUDY.md)** | Making assumptions visible; build-vs-backend judgment |
 
 
