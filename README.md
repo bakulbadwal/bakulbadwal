@@ -1,7 +1,8 @@
 # Hi, I'm Bakul
 
 - 🎓 MBA @ UVA Darden '27 - applied AI builder who ships products end-to-end.
-- 🛠️ Building in ai x bio/longevity, ai x blockchain, VC and PE, AI-native services, e-learning, etc.
+- 🛠️ Learning + building in ai x bio/longevity, ai x blockchain, VC and PE, AI-native services, e-learning, etc.
+- 📫 Badwalb27@darden.virginia.edu
 
 ## Projects
 
