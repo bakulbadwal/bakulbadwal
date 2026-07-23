@@ -6,6 +6,14 @@
 
 ## Projects
 
+### AI × Blockchain
+
+**[TraceHound](https://github.com/bakulbadwal/tracehound)** — agentic crypto hack tracer: live hop-by-hop tracing and narration from compromised wallet via Etherscan API, cross-references OFAC watchlist populated with sanctioned addresses from Treasury's SDN list. Built from experience with federal law enforcement on crypto crime.<br>
+> [Live →](https://tracehound.vercel.app)
+
+**[Tranche AI](https://github.com/bakulbadwal/tranche-ai)** — condition-gated capital release for VC deals: an AI agent reviews milestone evidence and posts a signed, on-chain attestation (EAS). Solidity, live on Base Sepolia network.<br>
+> [Live →](https://tranche-ai.vercel.app)
+
 ### AI × Bio/Longevity
 
 **LiveForever** *(live, private health control tower)* — personal longevity engine that unifies Oura Ring, Apple Health, Nori, 10+ years of clinical bloodwork and daily self-logged inputs into one owned data layer.
@@ -15,14 +23,6 @@ Computes a **PhenoAge** biological-age clock, benchmarks vs. public Blueprint ta
 
 **[PhaseSignal](https://github.com/bakulbadwal/phasesignal)** — pulls real, live trial data from the ClinicalTrials.gov API, scores against a cited published base rate, adjusted by four computed factors with a live-reweighting breakdown.<br>
 > [Live →](https://bakulbadwal.github.io/phasesignal/)
-
-### AI × Blockchain
-
-**[TraceHound](https://github.com/bakulbadwal/tracehound)** — agentic crypto hack tracer: live hop-by-hop tracing and narration from compromised wallet via Etherscan API, cross-references OFAC watchlist populated with sanctioned addresses from Treasury's SDN list. Built from experience with federal law enforcement on crypto crime.<br>
-> [Live →](https://tracehound.vercel.app)
-
-**[Tranche AI](https://github.com/bakulbadwal/tranche-ai)** — condition-gated capital release for VC deals: an AI agent reviews milestone evidence and posts a signed, on-chain attestation (EAS). Solidity, live on Base Sepolia network.<br>
-> [Live →](https://tranche-ai.vercel.app)
 
 ### AI × VC & PE
 
