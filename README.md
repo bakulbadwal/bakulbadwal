@@ -8,10 +8,10 @@
 
 ### Bio/Longevity
 
-**LiveForever** *(live, private health control tower)* — personal longevity engine that unifies Oura Ring, Apple Health, Nori, 10+ years of clinical bloodwork and daily self-logged inputs into one owned data layer.
+**LiveForever** *(live, private health control tower)* — personal longevity engine unifying wearables (Oura Ring, Apple Health, Whoop), 10+ years of clinical bloodwork & daily self-logged training/habits, and personal genomics (DNA via 23andMe) into one owned data layer.
 > **OpenAI Build Week 2026:** [Public version - Live →](https://bakulbadwal.github.io/liveforever-buildweek/) · [Repo](https://github.com/bakulbadwal/liveforever-buildweek)
 
-Computes a **PhenoAge** biological-age clock, benchmarks vs. public Blueprint targets and age/sex population cohorts, runs N-of-1 correlation engine quantifying what each input (supplements, fitness, sleep, medication, etc.) does to HRV, recovery, resilience scores + 28-day before/after analysis on interventions. Genetically personalized by cross-referencing my DNA via 23andMe (caffeine/dopamine pharmacogenomics, APOE and metabolic-risk variants). Daily auto-refresh via MCP + REST APIs.
+Benchmarks **PhenoAge** biological-age vs. public Blueprint targets and population cohorts, runs N-of-1 correlation analysis quantifying what each input (supplements, fitness, sleep, etc.) does to HRV, recovery, resilience scores + 28-day before/after analysis on interventions. Daily auto-refresh via MCP + REST APIs.
 
 **[PhaseSignal](https://github.com/bakulbadwal/phasesignal) ([Live →](https://bakulbadwal.github.io/phasesignal/))** — pulls real, live trial data from the ClinicalTrials.gov API, scores against a cited published base rate, adjusted by four computed factors with a live-reweighting breakdown.<br>
 
