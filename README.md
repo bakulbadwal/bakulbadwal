@@ -13,7 +13,7 @@
 
 Benchmarks **PhenoAge** biological-age vs. public Blueprint targets and population cohorts, N-of-1 correlation analysis quantifying what each input (supplements, fitness, sleep, etc.) does to HRV, recovery, resilience scores + 28-day before/after analysis on interventions. Daily auto-refresh via MCP + REST APIs.
 
-**[PhaseSignal](https://github.com/bakulbadwal/phasesignal) ([Live →](https://bakulbadwal.github.io/phasesignal/))** — pulls real, live trial data from the ClinicalTrials.gov API, scores against a cited published base rate, adjusted by four computed factors with a live-reweighting breakdown.<br>
+**[PhaseSignal](https://github.com/bakulbadwal/phasesignal) ([Live →](https://bakulbadwal.github.io/phasesignal/))** — pulls live trial data from ClinicalTrials.gov API, scores against a base rate, adjusted by four computed factors with a live-reweighting breakdown.<br>
 
 ### AI × Blockchain
 
@@ -31,11 +31,11 @@ Benchmarks **PhenoAge** biological-age vs. public Blueprint targets and populati
 
 ### E-Learning
 
-**[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — merger-model cockpit, purchase-price allocator, DCF sensitivity heatmap - live playgrounds, generative math drills, spaced repetition. 
+**[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — merger-model cockpit, purchase-price allocator, DCF sensitivity heatmap - live playgrounds. 
 
 **[Consulting Case Prep Trainer](https://github.com/bakulbadwal/consultingtrainer)** — profit-diagnosis game scores hypothesis-driven reasoning under a limited information budget, market-sizing builder, exhibit reader.
 
-**[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under leverage and covenants, 13-week cash-crisis room for distress-operator decision-making.
+**[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under leverage and covenants, 13-week cash-crisis room for distress-operator decision making.
 
 
 ## Product Case Studies
