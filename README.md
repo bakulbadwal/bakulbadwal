@@ -27,15 +27,15 @@ Benchmarks **PhenoAge** biological-age vs. public Blueprint targets and populati
 
 **[AI Stack](https://github.com/bakulbadwal/aistack) ([Live →](https://aistacked.netlify.app/))** — interactive map of the AI industry from silicon to application layer, value accrual, token cost calculator.<br>
 
-**[AI Digest](https://github.com/bakulbadwal/ai-digest)** — personalizable AI + markets briefing runs inside your agent harness 3x/week: track frontier releases, top builders (Grok API for live X read), GitHub/Hugging Face, deals/careers signals.
+**[AI Digest](https://github.com/bakulbadwal/ai-digest)** — personalizable AI + markets briefing runs inside your agent harness 3x/week: track frontier builders (Grok API for live X read), GitHub/Hugging Face, deals/careers signals.
 
 ### E-Learning
 
 **[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — merger-model cockpit, purchase-price allocator, DCF sensitivity heatmap - live playgrounds. 
 
-**[Consulting Case Prep Trainer](https://github.com/bakulbadwal/consultingtrainer)** — profit-diagnosis game scores hypothesis-driven reasoning under a limited information budget, market-sizing builder, exhibit reader.
+**[Consulting Case Prep Trainer](https://github.com/bakulbadwal/consultingtrainer)** — profit-diagnosis game, market-sizing builder, exhibit reader.
 
-**[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under leverage and covenants, 13-week cash-crisis room for distress-operator decision making.
+**[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under leverage & covenants, 13-week cash-crisis room for distress-operator decision making.
 
 
 ## Product Case Studies
