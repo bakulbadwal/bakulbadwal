@@ -27,7 +27,7 @@ Benchmarks **PhenoAge** biological-age vs. public Blueprint targets and populati
 
 **[AI Stack](https://github.com/bakulbadwal/aistack) ([Live →](https://aistacked.netlify.app/))** — interactive map of the AI industry from silicon to application layer, value accrual, token cost calculator.<br>
 
-**[AI Digest](https://github.com/bakulbadwal/ai-digest)** — personalizable AI + markets briefing that runs inside your preferred agent harness 3x/week: track frontier releases, top builders (Grok API calls for live-X read), GitHub/Hugging Face, and markets/deals/careers signals.
+**[AI Digest](https://github.com/bakulbadwal/ai-digest)** — personalizable AI + markets briefing runs inside your agent harness 3x/week: track frontier releases, top builders (Grok API for live X read), GitHub/Hugging Face, deals/careers signals.
 
 ### E-Learning
 
