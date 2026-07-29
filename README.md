@@ -13,7 +13,7 @@
 
 Benchmarks **PhenoAge** biological-age vs. public Blueprint targets and population cohorts, N-of-1 correlation analysis quantifying what each input (supplements, fitness, sleep, etc.) does to HRV, recovery, resilience scores + 28-day before/after analysis on interventions. Daily auto-refresh via MCP + REST APIs.
 
-**[PhaseSignal](https://github.com/bakulbadwal/phasesignal) ([Live →](https://bakulbadwal.github.io/phasesignal/))** — pulls live trial data from ClinicalTrials.gov API, scores against a base rate, adjusted by four computed factors with a live-reweighting breakdown.<br>
+**[PhaseSignal](https://github.com/bakulbadwal/phasesignal) ([Live →](https://bakulbadwal.github.io/phasesignal/))** — scores live ClinicalTrials.gov data against a base rate, reweighted across four factors.<br>
 
 ### AI × Blockchain
 
