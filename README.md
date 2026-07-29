@@ -46,6 +46,7 @@ Short product write-ups — **problem · users · product decisions & tradeoffs 
 
 | Project | The product-thinking angle |
 |---|---|
+| **[AI Frontier Dispatch →](https://github.com/bakulbadwal/ai-frontier-dispatch/blob/master/CASE_STUDY.md)** | Generalizing a personal tool for other people's setups; what to borrow vs. build |
 | **[TraceHound →](https://github.com/bakulbadwal/tracehound/blob/main/CASE_STUDY.md)** | Agentic AI for underserved users; rigor about a tool's limits |
 | **[Tranche AI →](https://github.com/bakulbadwal/tranche-ai/blob/main/CASE_STUDY.md)** | Scoping a frontier problem in VC |
 | **[OpenAI Build Week '26: LiveForever →](https://github.com/bakulbadwal/liveforever-buildweek/blob/main/CASE_STUDY.md)** | Separating deterministic evidence from model interpretation |
