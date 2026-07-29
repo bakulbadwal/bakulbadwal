@@ -8,10 +8,10 @@
 
 ### Bio/Longevity
 
-**LiveForever** *(live, private health control tower)* — personal longevity engine unifying wearables (Oura Ring, Apple Health, Whoop), 10+ years of clinical bloodwork & daily self-logged training/habits, and personal genomics (DNA via 23andMe) into one owned data layer.
+**LiveForever** *(live, private)* — personal health control tower unifying wearables (Oura Ring, Apple Health, Whoop), 10+ years of clinical bloodwork & daily self-logged training/habits, and personal genomics (DNA via 23andMe) into one owned data layer.
 > **OpenAI Build Week 2026:** [Public version - Live →](https://bakulbadwal.github.io/liveforever-buildweek/) · [Repo](https://github.com/bakulbadwal/liveforever-buildweek)
 
-Benchmarks **PhenoAge** biological-age vs. public Blueprint targets and population cohorts, N-of-1 correlation analysis quantifying what each input (supplements, fitness, sleep, etc.) does to HRV, recovery, resilience scores + 28-day before/after analysis on interventions. Daily auto-refresh via MCP + REST APIs.
+Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying what each input (supplements, fitness, sleep, etc.) does to HRV, recovery, resilience scores + 28-day analysis on interventions. 
 
 **[PhaseSignal](https://github.com/bakulbadwal/phasesignal) ([Live →](https://bakulbadwal.github.io/phasesignal/))** — scores live ClinicalTrials.gov data against a base rate, reweighted across four factors.<br>
 
