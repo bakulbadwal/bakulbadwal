@@ -29,7 +29,7 @@ Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying 
 
 **[AI Frontier Dispatch](https://github.com/bakulbadwal/ai-frontier-dispatch)** — personalizable AI + markets briefing runs inside your harness 3x/week: track frontier builders (Grok API for live X read), GitHub/Hugging Face, deals/careers signals. One-line plugin install.
 
-**Orbit** *(private)* — relationship intelligence graph & cadence engine scores tie strength from LinkedIn history, dormancy detection, auto-scheduled follow-ups. Obsidian graph + self-contained dashboard.<br>
+**Orbit** *(private)* — relationship intelligence engine scores tie strength from LinkedIn history, auto-scheduled follow-ups. Obsidian graph + dashboard.<br>
 
 ### E-Learning
 
