@@ -1,7 +1,6 @@
 # Hi, I'm Bakul
 
 - 🎓 MBA @ UVA Darden '27 - applied AI builder 
-- 🎯 I build agentic AI products for high-stakes decisions — shipped with the trust layer built in: evidence citations, honest limits, and evals that measure whether the AI is actually right.
 - 🛠️ Bio/longevity, blockchain, VC and PE, AI-native services, e-learning, etc.
 - 📫 Badwalb27@darden.virginia.edu
 
@@ -12,13 +11,6 @@
 | [<img src="https://raw.githubusercontent.com/bakulbadwal/tracehound/main/docs/screenshot.png" width="270" alt="TraceHound — radial hop-by-hop trace graph">](https://github.com/bakulbadwal/tracehound) | [<img src="https://raw.githubusercontent.com/bakulbadwal/ai-frontier-dispatch/master/docs/demo.gif" width="270" alt="AI Frontier Dispatch — demo">](https://github.com/bakulbadwal/ai-frontier-dispatch) | [<img src="https://raw.githubusercontent.com/bakulbadwal/dealdocket/main/docs/screenshot.png" width="270" alt="Deal Docket — five-box scoring dashboard">](https://github.com/bakulbadwal/dealdocket) |
 | **[TraceHound](https://github.com/bakulbadwal/tracehound)** | **[AI Frontier Dispatch](https://github.com/bakulbadwal/ai-frontier-dispatch)** | **[Deal Docket](https://github.com/bakulbadwal/dealdocket)** |
 | Agentic crypto hack tracer — [live](https://tracehound.vercel.app) · [executable evals](https://github.com/bakulbadwal/tracehound/tree/main/evals) · [case study](https://github.com/bakulbadwal/tracehound/blob/main/CASE_STUDY.md) | Personalized AI + markets briefing, one-line plugin install — [case study](https://github.com/bakulbadwal/ai-frontier-dispatch/blob/master/CASE_STUDY.md) on generalizing a personal tool | Deal screening with rank-stability analytics — [live](https://bakulbadwal.github.io/dealdocket/) · [case study](https://github.com/bakulbadwal/dealdocket/blob/main/CASE_STUDY.md) |
-
-## Evaluation discipline
-
-LLM products here ship with tests, not vibes: **golden set · deterministic policy gate · LLM-judge rubric · calibration plan (TPR/TNR, bias correction)** — each states plainly what's validated vs. designed.
-
-- [TraceHound evals](https://github.com/bakulbadwal/tracehound/tree/main/evals) — executable deterministic gate (`npm run eval`) over a golden set: catches invented hops, false watchlist claims, missing evidence citations, unsafe letter claims.
-- [Consulting Trainer evals](https://github.com/bakulbadwal/consultingtrainer/tree/main/evals) — 12-scenario golden set with deliberate tempting-wrong-answers, two-axis LLM judge with anti-halo instructions, calibration plan.
 
 ## Projects
 
@@ -71,7 +63,12 @@ Short product write-ups — **problem · users · product decisions & tradeoffs 
 | **[PhaseSignal →](https://github.com/bakulbadwal/phasesignal/blob/main/CASE_STUDY.md)** | Transparency vs. black-box incumbents |
 | **[Deal Docket →](https://github.com/bakulbadwal/dealdocket/blob/main/CASE_STUDY.md)** | Making assumptions visible; build-vs-backend judgment |
 
+## Evaluation discipline
 
+LLM products shipped with tests: **golden set · deterministic policy gate · LLM-judge rubric · calibration plan (TPR/TNR, bias correction)** — each states what's validated vs. designed.
+
+- [TraceHound evals](https://github.com/bakulbadwal/tracehound/tree/main/evals) — executable deterministic gate (`npm run eval`) over a golden set: catches invented hops, false and unsafe claims, missing evidence citations.
+- [Consulting Trainer evals](https://github.com/bakulbadwal/consultingtrainer/tree/main/evals) — 12-scenario golden set with deliberate tempting-wrong-answers, two-axis LLM judge with anti-halo instructions, calibration plan.
 
 ## How these are built
 
