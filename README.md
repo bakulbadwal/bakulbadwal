@@ -1,8 +1,24 @@
 # Hi, I'm Bakul
 
 - 🎓 MBA @ UVA Darden '27 - applied AI builder 
+- 🎯 I build agentic AI products for high-stakes decisions — shipped with the trust layer built in: evidence citations, honest limits, and evals that measure whether the AI is actually right.
 - 🛠️ Bio/longevity, blockchain, VC and PE, AI-native services, e-learning, etc.
 - 📫 Badwalb27@darden.virginia.edu
+
+## Featured
+
+| | | |
+|:---:|:---:|:---:|
+| [<img src="https://raw.githubusercontent.com/bakulbadwal/tracehound/main/docs/screenshot.png" width="270" alt="TraceHound — radial hop-by-hop trace graph">](https://github.com/bakulbadwal/tracehound) | [<img src="https://raw.githubusercontent.com/bakulbadwal/ai-frontier-dispatch/master/docs/demo.gif" width="270" alt="AI Frontier Dispatch — demo">](https://github.com/bakulbadwal/ai-frontier-dispatch) | [<img src="https://raw.githubusercontent.com/bakulbadwal/dealdocket/main/docs/screenshot.png" width="270" alt="Deal Docket — five-box scoring dashboard">](https://github.com/bakulbadwal/dealdocket) |
+| **[TraceHound](https://github.com/bakulbadwal/tracehound)** | **[AI Frontier Dispatch](https://github.com/bakulbadwal/ai-frontier-dispatch)** | **[Deal Docket](https://github.com/bakulbadwal/dealdocket)** |
+| Agentic crypto hack tracer — [live](https://tracehound.vercel.app) · [executable evals](https://github.com/bakulbadwal/tracehound/tree/main/evals) · [case study](https://github.com/bakulbadwal/tracehound/blob/main/CASE_STUDY.md) | Personalized AI + markets briefing, one-line plugin install — [case study](https://github.com/bakulbadwal/ai-frontier-dispatch/blob/master/CASE_STUDY.md) on generalizing a personal tool | Deal screening with rank-stability analytics — [live](https://bakulbadwal.github.io/dealdocket/) · [case study](https://github.com/bakulbadwal/dealdocket/blob/main/CASE_STUDY.md) |
+
+## Evaluation discipline
+
+LLM products here ship with tests, not vibes: **golden set · deterministic policy gate · LLM-judge rubric · calibration plan (TPR/TNR, bias correction)** — each states plainly what's validated vs. designed.
+
+- [TraceHound evals](https://github.com/bakulbadwal/tracehound/tree/main/evals) — executable deterministic gate (`npm run eval`) over a golden set: catches invented hops, false watchlist claims, missing evidence citations, unsafe letter claims.
+- [Consulting Trainer evals](https://github.com/bakulbadwal/consultingtrainer/tree/main/evals) — 12-scenario golden set with deliberate tempting-wrong-answers, two-axis LLM judge with anti-halo instructions, calibration plan.
 
 ## Projects
 
@@ -19,7 +35,7 @@ Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying 
 
 **[TraceHound](https://github.com/bakulbadwal/tracehound) ([Live →](https://tracehound.vercel.app))** — agentic crypto hack tracer: live hop-by-hop tracing and narration from compromised wallet via Etherscan API, cross-references OFAC watchlist populated with sanctioned addresses from U.S. Treasury's SDN list. Built from experience with federal law enforcement on crypto crime.<br>
 
-**[Tranche AI](https://github.com/bakulbadwal/tranche-ai) ([Live →](https://tranche-ai.vercel.app))** — condition-gated capital release for VC deals: an AI agent reviews milestone evidence and posts a signed, on-chain attestation (EAS). Solidity, live on Base Sepolia network.<br>
+**[Tranche AI](https://github.com/bakulbadwal/tranche-ai) ([Live →](https://tranche-ai.vercel.app))** — condition-gated capital release for VC deals, designed for AI-agent milestone review; smart contract + dispute flow live on Base Sepolia (EAS attestations). Solidity.<br>
 
 ### AI × VC & PE
 
@@ -29,7 +45,7 @@ Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying 
 
 **[AI Frontier Dispatch](https://github.com/bakulbadwal/ai-frontier-dispatch)** — personalizable AI + markets briefing runs inside your harness 3x/week: track frontier builders (Grok API for live X read), GitHub/Hugging Face, deals/careers signals. One-line plugin install.
 
-**Orbit** *(private)* — relationship intelligence engine scores tie strength from LinkedIn history, auto-scheduled follow-ups. Obsidian graph + dashboard.<br>
+**Orbit** *(private)* — relationship intelligence engine scores tie strength from relationship history, auto-scheduled follow-ups. Obsidian graph + dashboard.<br>
 
 ### E-Learning
 
