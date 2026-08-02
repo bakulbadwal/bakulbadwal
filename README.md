@@ -4,14 +4,6 @@
 - 🛠️ Bio/longevity, blockchain, VC and PE, AI-native services, e-learning, etc.
 - 📫 Badwalb27@darden.virginia.edu
 
-## Featured
-
-| | | |
-|:---:|:---:|:---:|
-| [<img src="https://raw.githubusercontent.com/bakulbadwal/tracehound/main/docs/screenshot.png" width="270" alt="TraceHound — radial hop-by-hop trace graph">](https://github.com/bakulbadwal/tracehound) | [<img src="https://raw.githubusercontent.com/bakulbadwal/ai-frontier-dispatch/master/docs/demo.gif" width="270" alt="AI Frontier Dispatch — demo">](https://github.com/bakulbadwal/ai-frontier-dispatch) | [<img src="https://raw.githubusercontent.com/bakulbadwal/dealdocket/main/docs/screenshot.png" width="270" alt="Deal Docket — five-box scoring dashboard">](https://github.com/bakulbadwal/dealdocket) |
-| **[TraceHound](https://github.com/bakulbadwal/tracehound)** | **[AI Frontier Dispatch](https://github.com/bakulbadwal/ai-frontier-dispatch)** | **[Deal Docket](https://github.com/bakulbadwal/dealdocket)** |
-| Agentic crypto hack tracer — [live](https://tracehound.vercel.app) · [executable evals](https://github.com/bakulbadwal/tracehound/tree/main/evals) · [case study](https://github.com/bakulbadwal/tracehound/blob/main/CASE_STUDY.md) | Personalized AI + markets briefing, one-line plugin install — [case study](https://github.com/bakulbadwal/ai-frontier-dispatch/blob/master/CASE_STUDY.md) on generalizing a personal tool | Deal screening with rank-stability analytics — [live](https://bakulbadwal.github.io/dealdocket/) · [case study](https://github.com/bakulbadwal/dealdocket/blob/main/CASE_STUDY.md) |
-
 ## Projects
 
 ### Bio/Longevity
@@ -27,6 +19,8 @@ Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying 
 
 **[TraceHound](https://github.com/bakulbadwal/tracehound) ([Live →](https://tracehound.vercel.app))** — agentic crypto hack tracer: live hop-by-hop tracing and narration from compromised wallet via Etherscan API, cross-references OFAC watchlist populated with sanctioned addresses from U.S. Treasury's SDN list. Built from experience with federal law enforcement on crypto crime.<br>
 
+[<img src="https://raw.githubusercontent.com/bakulbadwal/tracehound/main/docs/screenshot.png" width="560" alt="TraceHound">](https://tracehound.vercel.app)
+
 **[Tranche AI](https://github.com/bakulbadwal/tranche-ai) ([Live →](https://tranche-ai.vercel.app))** — condition-gated capital release for VC deals, designed for AI-agent milestone review; smart contract + dispute flow live on Base Sepolia (EAS attestations). Solidity.<br>
 
 ### AI × VC & PE
@@ -34,6 +28,8 @@ Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying 
 **[Deal Docket](https://github.com/bakulbadwal/dealdocket) ([Live →](https://bakulbadwal.github.io/dealdocket/))** — deal-screening dashboard built around an AI-enabled service-roll-up thesis; adjustable five-box scoring framework.<br>
 
 **[AI Stack](https://github.com/bakulbadwal/aistack) ([Live →](https://aistacked.netlify.app/))** — interactive map of the AI industry from silicon to application layer, value accrual, token cost calculator.<br>
+
+[<img src="https://raw.githubusercontent.com/bakulbadwal/aistack/main/docs/screenshot.png" width="560" alt="AI Stack">](https://aistacked.netlify.app/)
 
 **[AI Frontier Dispatch](https://github.com/bakulbadwal/ai-frontier-dispatch)** — personalizable AI + markets briefing runs inside your harness 3x/week: track frontier builders (Grok API for live X read), GitHub/Hugging Face, deals/careers signals. One-line plugin install.
 
