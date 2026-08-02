@@ -19,7 +19,9 @@ Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying 
 
 ### AI × Blockchain
 
-**[TraceHound](https://github.com/bakulbadwal/tracehound) ([Live →](https://tracehound.vercel.app))** — agentic crypto hack tracer: live hop-by-hop tracing and narration from compromised wallet via Etherscan API, cross-references OFAC watchlist populated with sanctioned addresses from U.S. Treasury's SDN list. Built from experience with federal law enforcement on crypto crime. Also runs as a [read-only MCP server](https://github.com/bakulbadwal/tracehound#mcp-server) — any agent can run a trace and gets back cited evidence records, not prose.<br>
+**[TraceHound](https://github.com/bakulbadwal/tracehound) ([Live →](https://tracehound.vercel.app))** — agentic crypto hack tracer: live hop-by-hop tracing and narration from compromised wallet via Etherscan API, cross-references OFAC watchlist populated with sanctioned addresses from U.S. Treasury's SDN list. Built from experience with federal law enforcement on crypto crime. 
+
+Also runs as a [read-only MCP server](https://github.com/bakulbadwal/tracehound#mcp-server) — any agent can run a trace and get back cited evidence.<br>
 
 [<img src="https://raw.githubusercontent.com/bakulbadwal/tracehound/main/docs/screenshot.png?v=20260801" width="560" alt="TraceHound">](https://tracehound.vercel.app)
 
@@ -63,7 +65,7 @@ Short product write-ups — **problem · users · product decisions & tradeoffs 
 
 LLM products shipped with tests: **golden set · deterministic policy gate · LLM-judge rubric · calibration plan (TPR/TNR, bias correction)** — each states what's validated vs. designed.
 
-- [TraceHound evals](https://github.com/bakulbadwal/tracehound/tree/main/evals) — executable deterministic gate (`npm run eval`) over a golden set: catches invented hops, false and unsafe claims, missing evidence citations. The [MCP server](https://github.com/bakulbadwal/tracehound#mcp-server) carries that contract past the eval harness to the agent boundary: it returns evidence records with stable IDs rather than prose, so a consuming agent has something to cite; it repeats the tool's stated limits in every response, since an agent never reads the README; and letter drafting is deliberately not exposed, with a test that fails if the read-only tool set ever grows a write path.
+- [TraceHound evals](https://github.com/bakulbadwal/tracehound/tree/main/evals) — executable deterministic gate (`npm run eval`) over a golden set: catches invented hops, false and unsafe claims, missing evidence citations. The [MCP server](https://github.com/bakulbadwal/tracehound#mcp-server) returns cited evidence records with stable IDs to a consuming agent.
 - [Consulting Trainer evals](https://github.com/bakulbadwal/consultingtrainer/tree/main/evals) — 12-scenario golden set with deliberate tempting-wrong-answers, two-axis LLM judge with anti-halo instructions, calibration plan.
 
 ## How these are built
