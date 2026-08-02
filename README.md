@@ -31,8 +31,6 @@ Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying 
 
 **[AI Stack](https://github.com/bakulbadwal/aistack) ([Live →](https://aistacked.netlify.app/))** — interactive map of the AI industry from silicon to application layer, value accrual, token cost calculator.<br>
 
-[<img src="https://raw.githubusercontent.com/bakulbadwal/aistack/main/docs/screenshot.png?v=20260801" width="560" alt="AI Stack">](https://aistacked.netlify.app/)
-
 **[AI Frontier Dispatch](https://github.com/bakulbadwal/ai-frontier-dispatch)** — personalizable AI + markets briefing runs inside your harness 3x/week: track frontier builders (Grok API for live X read), GitHub/Hugging Face, deals/careers signals. One-line plugin install.
 
 **Orbit** *(private)* — relationship intelligence engine scores tie strength from relationship history, auto-scheduled follow-ups. Obsidian graph + dashboard.<br>
