@@ -13,7 +13,7 @@
 
 Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying what each input does to HRV, recovery, resilience scores + 28-day analysis on interventions. 
 
-[<img src="assets/liveforever.png" width="500" alt="LiveForever — personal evidence lab">](https://bakulbadwal.github.io/liveforever-buildweek/)
+[<img src="assets/liveforever.png" width="460" alt="LiveForever — personal evidence lab">](https://bakulbadwal.github.io/liveforever-buildweek/)
 
 **[PhaseSignal](https://github.com/bakulbadwal/phasesignal) ([Live →](https://bakulbadwal.github.io/phasesignal/))** — scores live ClinicalTrials.gov data against a base rate, reweighted across four factors.<br>
 
@@ -23,11 +23,11 @@ Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying 
 
 Also runs as a [read-only MCP server](https://github.com/bakulbadwal/tracehound#mcp-server) — any agent can run a trace and get back cited evidence.<br>
 
-[<img src="https://raw.githubusercontent.com/bakulbadwal/tracehound/main/docs/screenshot.png?v=20260801" width="500" alt="TraceHound">](https://tracehound.vercel.app)
+[<img src="https://raw.githubusercontent.com/bakulbadwal/tracehound/main/docs/screenshot.png?v=20260801" width="460" alt="TraceHound">](https://tracehound.vercel.app)
 
 **[Tranche AI](https://github.com/bakulbadwal/tranche-ai) ([Live →](https://tranche-ai.vercel.app))** — condition-gated capital release for VC deals, designed for AI-agent milestone review; smart contract + dispute flow live on Base Sepolia (EAS attestations). Solidity.<br>
 
-[<img src="assets/tranche.png" width="500" alt="Tranche AI — capital that releases on proof, not trust">](https://tranche-ai.vercel.app)
+[<img src="assets/tranche.png" width="460" alt="Tranche AI — capital that releases on proof, not trust">](https://tranche-ai.vercel.app)
 
 ### AI × VC & PE
 
