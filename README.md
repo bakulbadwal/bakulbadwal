@@ -35,7 +35,7 @@ Also runs as a [read-only MCP server](https://github.com/bakulbadwal/tracehound#
 
 **[AI Frontier Dispatch](https://github.com/bakulbadwal/ai-frontier-dispatch)** — personalizable AI + markets briefing: track frontier builders (Grok API for live X read), GitHub/Hugging Face, deals/careers signals. One-line plugin install for any harness.
 
-**Orbit** *(private)* — relationship intelligence engine scores tie strength from relationship history, auto-scheduled follow-ups. Obsidian graph + dashboard.<br>
+**Orbit** *(private)* — relationship intelligence engine scores tie strength from live email and LinkedIn records, auto-schedules follow-ups. Obsidian graph + dashboard.<br>
 
 ### E-Learning
 
