@@ -13,7 +13,7 @@
 
 Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying what each input does to HRV, recovery, resilience scores + 28-day analysis on interventions. 
 
-[<img src="https://raw.githubusercontent.com/bakulbadwal/liveforever-buildweek/main/docs/screenshot.png" width="560" alt="LiveForever — personal evidence lab (fictional demo persona)">](https://bakulbadwal.github.io/liveforever-buildweek/)
+[<img src="assets/liveforever.png" width="560" alt="LiveForever — personal evidence lab">](https://bakulbadwal.github.io/liveforever-buildweek/)
 
 **[PhaseSignal](https://github.com/bakulbadwal/phasesignal) ([Live →](https://bakulbadwal.github.io/phasesignal/))** — scores live ClinicalTrials.gov data against a base rate, reweighted across four factors.<br>
 
@@ -21,7 +21,7 @@ Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying 
 
 **[TraceHound](https://github.com/bakulbadwal/tracehound) ([Live →](https://tracehound.vercel.app))** — agentic crypto hack tracer: live hop-by-hop tracing and narration from compromised wallet via Etherscan API, cross-references OFAC watchlist populated with sanctioned addresses from U.S. Treasury's SDN list. Built from experience with federal law enforcement on crypto crime.<br>
 
-[<img src="https://raw.githubusercontent.com/bakulbadwal/tracehound/main/docs/screenshot.png" width="560" alt="TraceHound">](https://tracehound.vercel.app)
+[<img src="https://raw.githubusercontent.com/bakulbadwal/tracehound/main/docs/screenshot.png?v=20260801" width="560" alt="TraceHound">](https://tracehound.vercel.app)
 
 **[Tranche AI](https://github.com/bakulbadwal/tranche-ai) ([Live →](https://tranche-ai.vercel.app))** — condition-gated capital release for VC deals, designed for AI-agent milestone review; smart contract + dispute flow live on Base Sepolia (EAS attestations). Solidity.<br>
 
@@ -31,7 +31,7 @@ Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying 
 
 **[AI Stack](https://github.com/bakulbadwal/aistack) ([Live →](https://aistacked.netlify.app/))** — interactive map of the AI industry from silicon to application layer, value accrual, token cost calculator.<br>
 
-[<img src="https://raw.githubusercontent.com/bakulbadwal/aistack/main/docs/screenshot.png" width="560" alt="AI Stack">](https://aistacked.netlify.app/)
+[<img src="https://raw.githubusercontent.com/bakulbadwal/aistack/main/docs/screenshot.png?v=20260801" width="560" alt="AI Stack">](https://aistacked.netlify.app/)
 
 **[AI Frontier Dispatch](https://github.com/bakulbadwal/ai-frontier-dispatch)** — personalizable AI + markets briefing runs inside your harness 3x/week: track frontier builders (Grok API for live X read), GitHub/Hugging Face, deals/careers signals. One-line plugin install.
 
