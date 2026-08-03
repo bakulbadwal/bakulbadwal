@@ -19,7 +19,7 @@ Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying 
 
 ### AI × Blockchain
 
-**[TraceHound](https://github.com/bakulbadwal/tracehound) ([Live →](https://tracehound.vercel.app))** — agentic crypto hack tracer: live hop-by-hop tracing and narration from compromised wallet via Etherscan API, cross-references OFAC watchlist populated with sanctioned addresses from U.S. Treasury's SDN list. Built from experience with federal law enforcement on crypto crime. 
+**[TraceHound](https://github.com/bakulbadwal/tracehound) ([Live →](https://tracehound.vercel.app))** — agentic crypto hack tracer: live hop-by-hop tracing and narration from compromised wallet via Etherscan API, cross-references OFAC sanctioned addresses from U.S. Treasury's SDN watchlist. Built from experience with federal law enforcement on crypto crime. 
 
 Also runs as a [read-only MCP server](https://github.com/bakulbadwal/tracehound#mcp-server) — any agent can run a trace and get back cited evidence.<br>
 
