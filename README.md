@@ -48,7 +48,7 @@ Also runs as a [read-only MCP server](https://github.com/bakulbadwal/tracehound#
 **[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under leverage & covenants, 13-week cash-crisis room for distress-operator decision making.
 
 
-## Evaluation discipline
+## Evals
 
 LLM products shipped with tests: **golden set · deterministic policy gate · LLM-judge rubric · calibration plan (TPR/TNR, bias correction)** — each states what's validated vs. designed.
 
