@@ -1,6 +1,6 @@
 # Hi, I'm Bakul
 
-- 🎓 MBA @ UVA Darden '27 - applied AI builder 
+- 🎓 MBA @ UVA Darden '27 - applied AI operator-builder
 - 🛠️ Bio/longevity, blockchain, VC and PE, AI-native services, e-learning, etc.
 - 📫 Badwalb27@darden.virginia.edu
 
