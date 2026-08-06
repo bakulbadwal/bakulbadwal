@@ -13,7 +13,7 @@
 
 Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying what each input does to HRV, recovery, resilience scores + 28-day analysis on interventions. 
 
-[<img src="assets/liveforever-16x9.png" width="460" alt="LiveForever — personal evidence lab">](https://bakulbadwal.github.io/liveforever-buildweek/)
+[<img src="assets/liveforever.png" width="460" alt="LiveForever — personal evidence lab">](https://bakulbadwal.github.io/liveforever-buildweek/)
 
 **[PhaseSignal](https://github.com/bakulbadwal/phasesignal) ([Live →](https://bakulbadwal.github.io/phasesignal/))** — scores live ClinicalTrials.gov data against a base rate, reweighted across four factors.<br>
 
