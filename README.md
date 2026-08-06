@@ -72,6 +72,6 @@ Short product write-ups — **problem · users · product decisions & tradeoffs 
 
 ## How these are built
 
-Most are self-contained apps — vanilla HTML/CSS/JS, no framework, no build step, no dependencies — designed, built, and shipped independently end-to-end with coding agents; I own the PRD, evaluation, and deployment. Some split data from rendering (`data.json` + `app.js`) for content updates. Some use a real Python data pipeline (`data/build_dataset.py`) that pulls and scores live data. TraceHound is a Next.js app with server-side API keys. 
+Most are self-contained apps — vanilla HTML/CSS/JS, no framework, no build step, no dependencies — designed, built, and shipped independently end-to-end with coding agents; I own the product decisions, evaluation, and deployment. Some split data from rendering (`data.json` + `app.js`) for content updates. Some use a real Python data pipeline (`data/build_dataset.py`) that pulls and scores live data. TraceHound is a Next.js app with server-side API keys. 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
