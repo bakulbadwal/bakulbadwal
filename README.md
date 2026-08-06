@@ -34,17 +34,15 @@ Also runs as a [read-only MCP server](https://github.com/bakulbadwal/tracehound#
 
 - **Orbit** *(private)* — relationship intelligence engine scores tie strength from live email and LinkedIn records, auto-schedules follow-ups. Obsidian graph + dashboard.
 
-### Recruiting Trainer Suite
+- **[PhaseSignal](https://github.com/bakulbadwal/phasesignal) ([Live →](https://bakulbadwal.github.io/phasesignal/))** — scores live ClinicalTrials.gov data against a base rate, reweighted across four factors.
+
+### Recruiting Trainers
 
 - **[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — merger-model cockpit, purchase-price allocator, DCF sensitivity heatmap - live playgrounds.
 
 - **[Consulting Case Prep Trainer](https://github.com/bakulbadwal/consultingtrainer)** — profit-diagnosis game, market-sizing builder, exhibit reader. Includes a designed [eval harness](https://github.com/bakulbadwal/consultingtrainer/tree/main/evals): golden set, two-axis LLM judge, calibration plan.
 
 - **[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under leverage & covenants, 13-week cash-crisis room for distress-operator decision making.
-
-### Rapid Prototype
-
-- **[PhaseSignal](https://github.com/bakulbadwal/phasesignal) ([Live →](https://bakulbadwal.github.io/phasesignal/))** — scores live ClinicalTrials.gov data against a base rate, reweighted across four factors.
 
 ## Evals
 
