@@ -44,6 +44,15 @@ Also runs as a [read-only MCP server](https://github.com/bakulbadwal/tracehound#
 
 - **[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under leverage & covenants, 13-week cash-crisis room for distress-operator decision making.
 
+## Hackathons
+
+Public builds — [Devpost profile →](https://devpost.com/badwalb)
+
+- **OpenAI Build Week 2026** · Jul 2026 — [Repo](https://github.com/bakulbadwal/liveforever-buildweek)
+- **Break the Barrier** · Redesign Health · Aug 2026 — [Repo](https://github.com/bakulbadwal/liveforever-care-brief)
+- **All Things Agentic** · Google · Aug 2026 — [Repo](https://github.com/bakulbadwal/opportunity-radar)
+- **Agents for Humans** · AWS · Sep 2026 — [Repo](https://github.com/bakulbadwal/recourse)
+
 ## Evals
 
 LLM products shipped with tests: **golden set · deterministic policy gate · LLM-judge rubric · calibration plan (TPR/TNR, bias correction)** — each states what's validated vs. designed.
