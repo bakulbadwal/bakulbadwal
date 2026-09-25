@@ -30,6 +30,8 @@ Also runs as a [read-only MCP server](https://github.com/bakulbadwal/tracehound#
 
 - **[Inference Kitchen](https://github.com/bakulbadwal/inference-kitchen) ([Live →](https://bakulbadwal.github.io/inference-kitchen/))** — hands-on lab for serving AI inference: GPU memory and KV cache, batching, and fleet break-even economics.
 
+- **[Finishing School](https://github.com/bakulbadwal/finishing-school) ([Live →](https://bakulbadwal.github.io/finishing-school/))** — its sequel, on post-training: chat templates, LoRA memory fit, DPO's implicit reward and GRPO's group baseline, all exact math, then a capstone that picks SFT, DPO or GRPO for three client briefs.
+
 - **[Arm Playground](https://github.com/bakulbadwal/arm-playground) ([Live →](https://bakulbadwal.github.io/arm-playground/))** — learning artifact for the Hugging Face Robotics Course: an interactive robot arm with 23 guided lessons on kinematics, configuration space, the Jacobian, and feedback control.
 
 - **[Policy Pond](https://github.com/bakulbadwal/policy-pond) ([Live →](https://bakulbadwal.github.io/policy-pond/))** — hands-on deep RL lab for the Hugging Face Deep RL Course: real REINFORCE and PPO running in the browser, all six cases of PPO's clip, GAE's λ, and reward hacking drawn from a real robot duck's training playbook.
