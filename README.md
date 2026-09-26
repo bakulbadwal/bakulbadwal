@@ -28,6 +28,11 @@ Also runs as a [read-only MCP server](https://github.com/bakulbadwal/tracehound#
 
 Hands-on companions to the Hugging Face courses. Policy Pond and Duck's-Eye View are built around a real robot: [Microduck](https://github.com/pollen-robotics/microduck), a 25 cm open-source robot duck.
 
+<p>
+  <a href="https://bakulbadwal.github.io/arm-playground/#ik&basins=1&t1=-120&t2=-30&tx=0.866&ty=1.5&solve=1"><img src="https://raw.githubusercontent.com/bakulbadwal/arm-playground/main/docs/solver.gif" height="180" alt="Arm Playground: an iterative inverse-kinematics solver walks a two-joint arm to its target while tracing its path across the configuration-space map"></a>
+  <a href="https://bakulbadwal.github.io/ducks-eye-view/"><img src="assets/ducks-eye-view-cutaway.png" height="180" alt="Duck's-Eye View: a cutaway of a robot duck's head, where every room is one step of its vision pipeline, from camera to head turn"></a>
+</p>
+
 - **[Arm Playground](https://github.com/bakulbadwal/arm-playground) ([Live →](https://bakulbadwal.github.io/arm-playground/))** — learning artifact for the Hugging Face Robotics Course: an interactive robot arm with 23 guided lessons on kinematics, configuration space, the Jacobian, and feedback control.
 
 - **[Policy Pond](https://github.com/bakulbadwal/policy-pond) ([Live →](https://bakulbadwal.github.io/policy-pond/))** — hands-on deep RL lab for the Hugging Face Deep RL Course: real REINFORCE and PPO running in the browser, all six cases of PPO's clip, GAE's λ, and reward hacking drawn from a real robot duck's training playbook.
