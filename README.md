@@ -24,6 +24,20 @@ Also runs as a [read-only MCP server](https://github.com/bakulbadwal/tracehound#
 
 [<img src="assets/tranche-workflow-16x9.png" width="460" alt="Tranche AI — capital that releases on proof, not trust">](https://tranche-ai.vercel.app)
 
+## Hugging Face Learning Labs
+
+Hands-on companions to the Hugging Face courses. Policy Pond and Duck's-Eye View are built around a real robot: [Microduck](https://github.com/pollen-robotics/microduck), a 25 cm open-source robot duck.
+
+- **[Arm Playground](https://github.com/bakulbadwal/arm-playground) ([Live →](https://bakulbadwal.github.io/arm-playground/))** — learning artifact for the Hugging Face Robotics Course: an interactive robot arm with 23 guided lessons on kinematics, configuration space, the Jacobian, and feedback control.
+
+- **[Policy Pond](https://github.com/bakulbadwal/policy-pond) ([Live →](https://bakulbadwal.github.io/policy-pond/))** — hands-on deep RL lab for the Hugging Face Deep RL Course: real REINFORCE and PPO running in the browser, all six cases of PPO's clip, GAE's λ, and reward hacking drawn from a real robot duck's training playbook.
+
+- **[Duck's-Eye View](https://github.com/bakulbadwal/ducks-eye-view) ([Live →](https://bakulbadwal.github.io/ducks-eye-view/))** — its sibling, on robot perception, companion to the Hugging Face Computer Vision Course: follow one camera frame through a real robot duck's vision stack, from the letterbox and convolution to YOLO's 2,100 boxes, NMS, an INT8 export bug and the pinhole camera.
+
+- **[Fork in the Road](https://github.com/bakulbadwal/fork-in-the-road) ([Live →](https://bakulbadwal.github.io/fork-in-the-road/))** — hands-on lab for why robots use diffusion to choose actions, companion to the Hugging Face Diffusion Models Course: the real DDPM/DDIM math on a toy town square, from fogging a route map to a robot re-planning around a moving cart.
+
+- **[Finishing School](https://github.com/bakulbadwal/finishing-school) ([Live →](https://bakulbadwal.github.io/finishing-school/))** — on post-training: chat templates, LoRA memory fit, DPO's implicit reward and GRPO's group baseline, all exact math, then a capstone that picks SFT, DPO or GRPO for three client briefs.
+
 ## More Projects
 
 - **[AI Stack](https://github.com/bakulbadwal/aistack) ([Live →](https://aistacked.netlify.app/))** — interactive map of the AI industry from silicon to application layer, value accrual, token cost calculator.
@@ -45,20 +59,6 @@ Also runs as a [read-only MCP server](https://github.com/bakulbadwal/tracehound#
 - **[Consulting Case Prep Trainer](https://github.com/bakulbadwal/consultingtrainer)** — profit-diagnosis game, market-sizing builder, exhibit reader. Includes a designed [eval harness](https://github.com/bakulbadwal/consultingtrainer/tree/main/evals): golden set, two-axis LLM judge, calibration plan.
 
 - **[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under leverage & covenants, 13-week cash-crisis room for distress-operator decision making.
-
-## Hugging Face Learning Labs
-
-Hands-on companions to the Hugging Face courses. Policy Pond and Duck's-Eye View are built around a real robot: [Microduck](https://github.com/pollen-robotics/microduck), a 25 cm open-source robot duck.
-
-- **[Arm Playground](https://github.com/bakulbadwal/arm-playground) ([Live →](https://bakulbadwal.github.io/arm-playground/))** — learning artifact for the Hugging Face Robotics Course: an interactive robot arm with 23 guided lessons on kinematics, configuration space, the Jacobian, and feedback control.
-
-- **[Policy Pond](https://github.com/bakulbadwal/policy-pond) ([Live →](https://bakulbadwal.github.io/policy-pond/))** — hands-on deep RL lab for the Hugging Face Deep RL Course: real REINFORCE and PPO running in the browser, all six cases of PPO's clip, GAE's λ, and reward hacking drawn from a real robot duck's training playbook.
-
-- **[Duck's-Eye View](https://github.com/bakulbadwal/ducks-eye-view) ([Live →](https://bakulbadwal.github.io/ducks-eye-view/))** — its sibling, on robot perception, companion to the Hugging Face Computer Vision Course: follow one camera frame through a real robot duck's vision stack, from the letterbox and convolution to YOLO's 2,100 boxes, NMS, an INT8 export bug and the pinhole camera.
-
-- **[Fork in the Road](https://github.com/bakulbadwal/fork-in-the-road) ([Live →](https://bakulbadwal.github.io/fork-in-the-road/))** — hands-on lab for why robots use diffusion to choose actions, companion to the Hugging Face Diffusion Models Course: the real DDPM/DDIM math on a toy town square, from fogging a route map to a robot re-planning around a moving cart.
-
-- **[Finishing School](https://github.com/bakulbadwal/finishing-school) ([Live →](https://bakulbadwal.github.io/finishing-school/))** — on post-training: chat templates, LoRA memory fit, DPO's implicit reward and GRPO's group baseline, all exact math, then a capstone that picks SFT, DPO or GRPO for three client briefs.
 
 ## Hackathons
 
@@ -90,6 +90,7 @@ Short product write-ups — **problem · users · product decisions & tradeoffs 
 | **[Recruiting Trainer Suite →](https://github.com/bakulbadwal/ibtrainer/blob/main/CASE_STUDY.md)** | Framing three tools as one product line; retention-first design |
 | **[PhaseSignal →](https://github.com/bakulbadwal/phasesignal/blob/main/CASE_STUDY.md)** | Transparency vs. black-box incumbents |
 | **[Deal Docket →](https://github.com/bakulbadwal/dealdocket/blob/main/CASE_STUDY.md)** | Making assumptions visible; build-vs-backend judgment |
+| **[HF Learning Labs →](https://github.com/bakulbadwal/ducks-eye-view/blob/main/CASE_STUDY.md)** | Turning coursework into shipped public artifacts; honesty (exact vs. labelled toy) as a product rule |
 
 ## How these are built
 
