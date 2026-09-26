@@ -43,6 +43,8 @@ Hands-on companions to the Hugging Face courses. Policy Pond and Duck's-Eye View
 
 - **[Finishing School](https://github.com/bakulbadwal/finishing-school) ([Live →](https://bakulbadwal.github.io/finishing-school/))** — on post-training: chat templates, LoRA memory fit, DPO's implicit reward and GRPO's group baseline, all exact math, then a capstone that picks SFT, DPO or GRPO for three client briefs.
 
+- **[Reward Arcade](https://github.com/bakulbadwal/reward-arcade) ([Live →](https://bakulbadwal.github.io/reward-arcade/))** — the world the learner practices in, companion to the Hugging Face OpenEnv course: play a real RL environment in the browser, find the answer sheet in its back panel and seal it, send it the moves a good player never would, watch a farmer beat an honest player under a careless reward, and run a tournament with error bars and an A/A test. Sits between Policy Pond and Finishing School.
+
 ## More Projects
 
 - **[AI Stack](https://github.com/bakulbadwal/aistack) ([Live →](https://aistacked.netlify.app/))** — interactive map of the AI industry from silicon to application layer, value accrual, token cost calculator.
