@@ -36,6 +36,8 @@ Also runs as a [read-only MCP server](https://github.com/bakulbadwal/tracehound#
 
 - **[Policy Pond](https://github.com/bakulbadwal/policy-pond) ([Live →](https://bakulbadwal.github.io/policy-pond/))** — hands-on deep RL lab for the Hugging Face Deep RL Course: real REINFORCE and PPO running in the browser, all six cases of PPO's clip, GAE's λ, and reward hacking drawn from a real robot duck's training playbook.
 
+- **[Duck's-Eye View](https://github.com/bakulbadwal/ducks-eye-view) ([Live →](https://bakulbadwal.github.io/ducks-eye-view/))** — its sibling, on robot perception, companion to the Hugging Face Computer Vision Course: follow one camera frame through a real robot duck's vision stack, from the letterbox and convolution to YOLO's 2,100 boxes, NMS, an INT8 export bug and the pinhole camera.
+
 - **[Fork in the Road](https://github.com/bakulbadwal/fork-in-the-road) ([Live →](https://bakulbadwal.github.io/fork-in-the-road/))** — hands-on lab for why robots use diffusion to choose actions, companion to the Hugging Face Diffusion Models Course: the real DDPM/DDIM math on a toy town square, from fogging a route map to a robot re-planning around a moving cart.
 
 - **[AI Frontier Dispatch](https://github.com/bakulbadwal/ai-frontier-dispatch)** — personalizable AI + markets briefing: track frontier builders (Grok API for live X read), GitHub/Hugging Face, deals/careers signals. One-line plugin install for any harness.
