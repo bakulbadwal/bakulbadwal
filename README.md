@@ -33,7 +33,7 @@ Hands-on companions to the Hugging Face courses. Policy Pond and Duck's-Eye View
   <a href="https://bakulbadwal.github.io/ducks-eye-view/"><img src="assets/ducks-eye-view-cutaway.png" height="180" alt="Duck's-Eye View: a cutaway of a robot duck's head, where every room is one step of its vision pipeline, from camera to head turn"></a>
 </p>
 
-- **[Arm Playground](https://github.com/bakulbadwal/arm-playground) ([Live →](https://bakulbadwal.github.io/arm-playground/))** — learning artifact for the Hugging Face Robotics Course: an interactive robot arm with 23 guided lessons on kinematics, configuration space, the Jacobian, and feedback control.
+- **[Arm Playground](https://github.com/bakulbadwal/arm-playground) ([Live →](https://bakulbadwal.github.io/arm-playground/))** — learning artifact for the Hugging Face Robotics Course: an interactive robot arm with 24 guided lessons on kinematics, configuration space, the Jacobian, and feedback control.
 
 - **[Policy Pond](https://github.com/bakulbadwal/policy-pond) ([Live →](https://bakulbadwal.github.io/policy-pond/))** — hands-on deep RL lab for the Hugging Face Deep RL Course: real REINFORCE and PPO running in the browser, all six cases of PPO's clip, GAE's λ, and reward hacking drawn from a real robot duck's training playbook.
 
