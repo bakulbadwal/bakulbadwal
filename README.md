@@ -14,9 +14,7 @@ Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying 
 
 [<img src="assets/liveforever.png" width="460" alt="LiveForever — personal evidence lab">](https://bakulbadwal.github.io/liveforever-buildweek/)
 
-**[TraceHound](https://github.com/bakulbadwal/tracehound) ([Live →](https://tracehound.vercel.app))** — agentic crypto hack tracer: live hop-by-hop tracing and narration from compromised wallet via Etherscan API, cross-references OFAC sanctioned addresses from U.S. Treasury's SDN watchlist. Built from experience with federal law enforcement on crypto crime. 
-
-Also runs as a [read-only MCP server](https://github.com/bakulbadwal/tracehound#mcp-server) — any agent can run a trace and get back cited evidence.<br>
+**[TraceHound](https://github.com/bakulbadwal/tracehound) ([Live →](https://tracehound.vercel.app))** — agentic crypto hack tracer: live hop-by-hop tracing and narration from compromised wallet via Etherscan API, cross-references OFAC sanctioned addresses from U.S. Treasury's SDN watchlist. Built from experience with federal law enforcement on crypto crime. Also runs as a [read-only MCP server](https://github.com/bakulbadwal/tracehound#mcp-server) — any agent can run a trace and get back cited evidence.<br>
 
 [<img src="assets/tracehound-16x9.png" width="460" alt="TraceHound">](https://tracehound.vercel.app)
 
