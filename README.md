@@ -2,6 +2,7 @@
 
 - 🎓 MBA @ UVA Darden '27 - applied AI operator-builder
 - 📫 Badwalb27@darden.virginia.edu
+- 🤗 Hugging Face: [huggingface.co/bacool](https://huggingface.co/bacool)
 
 🛠️ **Building across:** bio/longevity · blockchain · VC & PE · AI-native services · physical AI · e-learning
 
