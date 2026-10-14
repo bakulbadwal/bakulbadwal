@@ -73,9 +73,9 @@ Hands-on companions to the Hugging Face courses. Policy Pond and Duck's-Eye View
 Public builds — [Devpost profile →](https://devpost.com/badwalb)
 
 - **OpenAI Build Week 2026** · Jul 2026 — [Repo](https://github.com/bakulbadwal/liveforever-buildweek)
-- **Break the Barrier** · Redesign Health · Aug 2026 — [Repo](https://github.com/bakulbadwal/liveforever-care-brief)
-- **All Things Agentic** · Google · Aug 2026 — [Repo](https://github.com/bakulbadwal/opportunity-radar)
-- **Agents for Humans** · AWS · Sep 2026 — [Repo](https://github.com/bakulbadwal/recourse)
+- **Redesign Health Break the Barrier** · Aug 2026 — [Repo](https://github.com/bakulbadwal/liveforever-care-brief)
+- **Google All Things Agentic** · Aug 2026 — [Repo](https://github.com/bakulbadwal/opportunity-radar)
+- **AWS Agents for Humans** · Sep 2026 — [Repo](https://github.com/bakulbadwal/recourse)
 
 ## Evals
 
