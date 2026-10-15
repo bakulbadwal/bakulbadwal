@@ -52,6 +52,8 @@ Hands-on companions to the Hugging Face courses. Policy Pond and Duck's-Eye View
 
 - **[Inference Kitchen](https://github.com/bakulbadwal/inference-kitchen) ([Live →](https://bakulbadwal.github.io/inference-kitchen/))** — hands-on lab for serving AI inference: GPU memory and KV cache, batching, and fleet break-even economics.
 
+- **[Compute Deal Desk](https://github.com/bakulbadwal/compute-deal-desk) ([Live →](https://bakulbadwal.github.io/compute-deal-desk/))** — what is one more megawatt worth to us? Hands-on optimization lab for AI compute deals: shadow prices of power and GPUs, take-or-pay vs. “up to,” site portfolios and bid prices, solved live in the browser by a real LP/MIP solver (HiGHS), with a Python twin for every model.
+
 - **[AI Frontier Dispatch](https://github.com/bakulbadwal/ai-frontier-dispatch)** — personalizable AI + markets briefing: track frontier builders (Grok API for live X read), GitHub/Hugging Face, deals/careers signals. One-line plugin install for any harness.
 
 - **[Deal Docket](https://github.com/bakulbadwal/dealdocket) ([Live →](https://bakulbadwal.github.io/dealdocket/))** — deal-screening dashboard built around an AI-enabled service-roll-up thesis; adjustable five-box scoring framework.
@@ -99,6 +101,7 @@ Short product write-ups — **problem · users · product decisions & tradeoffs 
 | **[PhaseSignal →](https://github.com/bakulbadwal/phasesignal/blob/main/CASE_STUDY.md)** | Transparency vs. black-box incumbents |
 | **[Deal Docket →](https://github.com/bakulbadwal/dealdocket/blob/main/CASE_STUDY.md)** | Making assumptions visible; build-vs-backend judgment |
 | **[HF Learning Labs →](https://github.com/bakulbadwal/ducks-eye-view/blob/main/CASE_STUDY.md)** | Turning coursework into shipped public artifacts; honesty (exact vs. labelled toy) as a product rule |
+| **[Compute Deal Desk →](https://github.com/bakulbadwal/compute-deal-desk/blob/main/CASE_STUDY.md)** | Replacing a spreadsheet course with a solver-backed lab; quoting a shadow price only where it's true |
 
 ## How these are built
 
