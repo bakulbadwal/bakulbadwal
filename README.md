@@ -27,6 +27,8 @@ Benchmarks **PhenoAge** biological-age, N-of-1 correlation analysis quantifying 
 
 Hands-on companions to the Hugging Face courses. Policy Pond and Duck's-Eye View are built around a real robot: [Microduck](https://github.com/pollen-robotics/microduck), a 25 cm open-source robot duck.
 
+**Robot learning labs, in study order:** [Arm Playground](https://bakulbadwal.github.io/arm-playground/) (kinematics and control) → [Demos to Deployment](https://bakulbadwal.github.io/arm-playground/demos-to-deployment/) (imitation learning and real-time execution) → [Inside a VLA](https://bakulbadwal.github.io/arm-playground/inside-a-vla/) (what a vision-language-action model computes) → [Fork in the Road](https://bakulbadwal.github.io/fork-in-the-road/) (diffusion policies) → [Policy Pond](https://bakulbadwal.github.io/policy-pond/) (RL) → [Dual Controls](https://bakulbadwal.github.io/policy-pond/dual-controls/) (RL on real hardware with a human in the loop); for perception, [Duck's-Eye View](https://bakulbadwal.github.io/ducks-eye-view/) → [Eye Exam](https://bakulbadwal.github.io/ducks-eye-view/eye-exam/) (camera calibration).
+
 <p>
   <a href="https://bakulbadwal.github.io/arm-playground/#ik&basins=1&t1=-120&t2=-30&tx=0.866&ty=1.5&solve=1"><img src="https://raw.githubusercontent.com/bakulbadwal/arm-playground/main/docs/solver.gif" height="180" alt="Arm Playground: an iterative inverse-kinematics solver walks a two-joint arm to its target while tracing its path across the configuration-space map"></a>
   <a href="https://bakulbadwal.github.io/ducks-eye-view/"><img src="assets/ducks-eye-view-cutaway.png" height="180" alt="Duck's-Eye View: a cutaway of a robot duck's head, where every room is one step of its vision pipeline, from camera to head turn"></a>
@@ -39,6 +41,14 @@ Hands-on companions to the Hugging Face courses. Policy Pond and Duck's-Eye View
 - **[Duck's-Eye View](https://github.com/bakulbadwal/ducks-eye-view) ([Live →](https://bakulbadwal.github.io/ducks-eye-view/))** — its sibling, on robot perception, companion to the Hugging Face Computer Vision Course: follow one camera frame through a real robot duck's vision stack, from the letterbox and convolution to YOLO's 2,100 boxes, NMS, an INT8 export bug and the pinhole camera.
 
 - **[Fork in the Road](https://github.com/bakulbadwal/fork-in-the-road) ([Live →](https://bakulbadwal.github.io/fork-in-the-road/))** — hands-on lab for why robots use diffusion to choose actions, companion to the Hugging Face Diffusion Models Course: the real DDPM/DDIM math on a toy town square, from fogging a route map to a robot re-planning around a moving cart.
+
+- **[Demos to Deployment](https://github.com/bakulbadwal/arm-playground/tree/main/demos-to-deployment) ([Live →](https://bakulbadwal.github.io/arm-playground/demos-to-deployment/))** — what comes after the Robotics Course's Unit 2, from Hugging Face's *Robot Learning* tutorial: why behaviour cloning drifts and DAgger fixes it, then every way to execute action chunks while the policy thinks (synchronous, ACT's temporal ensembling, SmolVLA's async queue, Real-Time Chunking), measured on one toy robot.
+
+- **[Inside a VLA](https://github.com/bakulbadwal/arm-playground/tree/main/inside-a-vla) ([Live →](https://bakulbadwal.github.io/arm-playground/inside-a-vla/))** — where the milliseconds go in a robot foundation model: SmolVLA opened floor by floor, from camera frames to tokens, layer skipping, the cached prefix and the action expert's flow steps, timed against the control loop, with π0 side by side.
+
+- **[Eye Exam](https://github.com/bakulbadwal/ducks-eye-view/tree/main/eye-exam) ([Live →](https://bakulbadwal.github.io/ducks-eye-view/eye-exam/))** — Duck's-Eye View's sequel: calibrate a real robot's camera with Zhang's method (OpenCV's `calibrateCamera`), run in the browser from homography to intrinsics, lens distortion and Levenberg–Marquardt.
+
+- **[Dual Controls](https://github.com/bakulbadwal/policy-pond/tree/main/dual-controls) ([Live →](https://bakulbadwal.github.io/policy-pond/dual-controls/))** — Policy Pond's sequel: RL on real hardware with a human in the loop (HIL-SERL, as LeRobot implements it), with soft actor-critic in the browser, a learned reward that gets gamed, and human interventions as training data.
 
 - **[Finishing School](https://github.com/bakulbadwal/finishing-school) ([Live →](https://bakulbadwal.github.io/finishing-school/))** — on post-training: chat templates, LoRA memory fit, DPO's implicit reward and GRPO's group baseline, all exact math, then a capstone that picks SFT, DPO or GRPO for three client briefs.
 
@@ -53,6 +63,8 @@ Hands-on companions to the Hugging Face courses. Policy Pond and Duck's-Eye View
 - **[Inference Kitchen](https://github.com/bakulbadwal/inference-kitchen) ([Live →](https://bakulbadwal.github.io/inference-kitchen/))** — hands-on lab for serving AI inference: GPU memory and KV cache, batching, and fleet break-even economics.
 
 - **[Compute Deal Desk](https://github.com/bakulbadwal/compute-deal-desk) ([Live →](https://bakulbadwal.github.io/compute-deal-desk/))** — what is one more megawatt worth to us? Hands-on optimization lab for AI compute deals: shadow prices of power and GPUs, take-or-pay vs. “up to,” site portfolios and bid prices, solved live in the browser by a real LP/MIP solver (HiGHS), with a Python twin for every model.
+
+- **[Robot Payroll](https://github.com/bakulbadwal/aistack/tree/main/robot-payroll) ([Live →](https://aistacked.netlify.app/robot-payroll/))** — when does a robot beat a human shift? Cost per good pick from BLS wages, autonomy as calls for help, payback, NPV and IRR, operator queueing (Erlang C), and the diligence questions to ask a robotics startup.
 
 - **[AI Frontier Dispatch](https://github.com/bakulbadwal/ai-frontier-dispatch)** — personalizable AI + markets briefing: track frontier builders (Grok API for live X read), GitHub/Hugging Face, deals/careers signals. One-line plugin install for any harness.
 
