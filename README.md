@@ -52,7 +52,7 @@ Hands-on companions to the Hugging Face courses. Policy Pond and Duck's-Eye View
 
 - **[Finishing School](https://github.com/bakulbadwal/finishing-school) ([Live →](https://bakulbadwal.github.io/finishing-school/))** — on post-training: chat templates, LoRA memory fit, DPO's implicit reward and GRPO's group baseline, all exact math, then a capstone that picks SFT, DPO or GRPO for three client briefs.
 
-- **[Reward Arcade](https://github.com/bakulbadwal/reward-arcade) ([Live →](https://bakulbadwal.github.io/reward-arcade/))** — the world the learner practices in, companion to the Hugging Face OpenEnv course: play a real RL environment in the browser, find the answer sheet in its back panel and seal it, send it the moves a good player never would, watch a farmer beat an honest player under a careless reward, and run a tournament with error bars and an A/A test. Sits between Policy Pond and Finishing School.
+- **[Reward Arcade](https://github.com/bakulbadwal/reward-arcade) ([Live →](https://bakulbadwal.github.io/reward-arcade/))** — the world the learner practices in, companion to Hugging Face OpenEnv course: play a real RL environment in the browser, find the answer sheet in its back panel and seal it, send it the moves a good player never would, watch a farmer beat an honest player under a careless reward, and run a tournament with error bars and an A/A test. Sits between Policy Pond and Finishing School.
 
 - **[GAIA Agent](https://github.com/bakulbadwal/gaia-agent) ([Results →](https://bakulbadwal.github.io/gaia-agent/))** — Hugging Face Agents Course capstone (GAIA benchmark): a smolagents code agent with 13 tools, full per-step traces, its own scored practice set with pass^k reliability and ablations, rate-limit and fallback plumbing on open weight models only, and a contamination guard.
 
@@ -62,11 +62,11 @@ Hands-on companions to the Hugging Face courses. Policy Pond and Duck's-Eye View
 
 - **[Inference Kitchen](https://github.com/bakulbadwal/inference-kitchen) ([Live →](https://bakulbadwal.github.io/inference-kitchen/))** — hands-on lab for serving AI inference: GPU memory and KV cache, batching, and fleet break-even economics.
 
-- **[Compute Deal Desk](https://github.com/bakulbadwal/compute-deal-desk) ([Live →](https://bakulbadwal.github.io/compute-deal-desk/))** — optimization lab for AI compute deals: shadow prices of power and GPUs, take-or-pay vs. “up to,” site portfolios and bid prices, solved live in the browser by a real LP/MIP solver (HiGHS), with a Python twin for every model.
+- **[Compute Deal Desk](https://github.com/bakulbadwal/compute-deal-desk) ([Live →](https://bakulbadwal.github.io/compute-deal-desk/))** — optimization lab for AI compute deals: shadow prices of power and GPUs, take-or-pay vs. “up to,” site portfolios and bid prices, solved live in the browser by a real LP/MIP solver (HiGHS).
 
 - **[Interconnection Queue Lab](https://github.com/bakulbadwal/interconnection-queue-lab) ([Live →](https://bakulbadwal.github.io/interconnection-queue-lab/))** — hands-on lab on the grid interconnection queue: the odds a power project ever connects, how long the wait is, and what delay costs an AI campus.
 
-- **[Real Estate Deal Lab](https://github.com/bakulbadwal/real-estate-deal-lab) ([Live →](https://bakulbadwal.github.io/real-estate-deal-lab/))** — nine hands-on deals (loan constant, yield on cost, walk-away price, net effective rent, debt sizing, the waterfall and promote, spec vs. build-to-suit, hold or sell, buy or rent), independent Python twin checks every formula.
+- **[Real Estate Deal Lab](https://github.com/bakulbadwal/real-estate-deal-lab) ([Live →](https://bakulbadwal.github.io/real-estate-deal-lab/))** — nine hands-on deals (loan constant, yield on cost, walk-away price, net effective rent, debt sizing, the waterfall and promote, spec vs. build-to-suit, hold or sell, buy or rent).
 
 - **[Robot Payroll](https://github.com/bakulbadwal/aistack/tree/main/robot-payroll) ([Live →](https://aistacked.netlify.app/robot-payroll/))** — when does a robot beat a human shift? Cost per good pick from BLS wages, autonomy as calls for help, payback, NPV and IRR, operator queueing (Erlang C), and diligence questions to ask a robotics startup.
 
