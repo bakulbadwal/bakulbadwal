@@ -66,7 +66,7 @@ Hands-on companions to the Hugging Face courses. Policy Pond and Duck's-Eye View
 
 - **[Interconnection Queue Lab](https://github.com/bakulbadwal/interconnection-queue-lab) ([Live →](https://bakulbadwal.github.io/interconnection-queue-lab/))** — hands-on lab on the grid interconnection queue: the odds a power project ever connects, how long the wait is, and what delay costs an AI campus.
 
-- **[Real Estate Deal Lab](https://github.com/bakulbadwal/real-estate-deal-lab) ([Live →](https://bakulbadwal.github.io/real-estate-deal-lab/))** — nine hands-on deals (loan constant, yield on cost, walk-away price, net effective rent, debt sizing, the waterfall and promote, spec vs. build-to-suit, hold or sell, buy or rent), each ending in a graded call, with an independent Python twin checking every formula.
+- **[Real Estate Deal Lab](https://github.com/bakulbadwal/real-estate-deal-lab) ([Live →](https://bakulbadwal.github.io/real-estate-deal-lab/))** — nine hands-on deals (loan constant, yield on cost, walk-away price, net effective rent, debt sizing, the waterfall and promote, spec vs. build-to-suit, hold or sell, buy or rent), independent Python twin checks every formula.
 
 - **[Robot Payroll](https://github.com/bakulbadwal/aistack/tree/main/robot-payroll) ([Live →](https://aistacked.netlify.app/robot-payroll/))** — when does a robot beat a human shift? Cost per good pick from BLS wages, autonomy as calls for help, payback, NPV and IRR, operator queueing (Erlang C), and diligence questions to ask a robotics startup.
 
