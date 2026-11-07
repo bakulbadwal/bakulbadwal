@@ -78,6 +78,8 @@ Hands-on companions to the Hugging Face courses. Policy Pond and Duck's-Eye View
 
 - **[PhaseSignal](https://github.com/bakulbadwal/phasesignal) ([Live →](https://bakulbadwal.github.io/phasesignal/))** — scores live ClinicalTrials.gov data against a base rate, reweighted across four factors.
 
+- **[Lesson Linter](https://github.com/bakulbadwal/lesson-linter)** — checks the math an interactive lesson states: models write the formulas, plain code decides every result. Live model run still pending.
+
 ### Recruiting Trainers
 
 - **[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — merger-model cockpit, purchase-price allocator, DCF sensitivity heatmap - live playgrounds.
